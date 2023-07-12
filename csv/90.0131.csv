@@ -1,0 +1,101 @@
+Component,Component URL,ISIN,Trading Location,Issuer Country
+ALSTOM,https://live.euronext.com/en/product/equities/FR0010220475-XPAR,FR0010220475,Euronext Paris,France
+ASM INTERNATIONAL,https://live.euronext.com/en/product/equities/NL0000334118-XAMS,NL0000334118,Euronext Amsterdam,Netherlands
+ASML HOLDING,https://live.euronext.com/en/product/equities/NL0010273215-XAMS,NL0010273215,Euronext Amsterdam,Netherlands
+AXA,https://live.euronext.com/en/product/equities/FR0000120628-XPAR,FR0000120628,Euronext Paris,France
+BANK OF IRELAND GP,https://live.euronext.com/en/product/equities/IE00BD1RP616-XMSM,IE00BD1RP616,Euronext Dublin,Ireland
+BNP PARIBAS ACT.A,https://live.euronext.com/en/product/equities/FR0000131104-XPAR,FR0000131104,Euronext Paris,France
+CAPGEMINI,https://live.euronext.com/en/product/equities/FR0000125338-XPAR,FR0000125338,Euronext Paris,France
+DANONE,https://live.euronext.com/en/product/equities/FR0000120644-XPAR,FR0000120644,Euronext Paris,France
+DNB BANK,https://live.euronext.com/en/product/equities/NO0010161896-XOSL,NO0010161896,Oslo Børs,Norway
+DSM FIRMENICH AG,https://live.euronext.com/en/product/equities/CH1216478797-XAMS,CH1216478797,Euronext Amsterdam,Switzerland
+EDENRED,https://live.euronext.com/en/product/equities/FR0010908533-XPAR,FR0010908533,Euronext Paris,France
+EDP RENOVAVEIS,https://live.euronext.com/en/product/equities/ES0127797019-XLIS,ES0127797019,Euronext Lisbon,Spain
+ELIA GROUP,https://live.euronext.com/en/product/equities/BE0003822393-XBRU,BE0003822393,Euronext Brussels,Belgium
+GENERALI ASS,https://live.euronext.com/en/product/equities/IT0000062072-MTAA,IT0000062072,Euronext Milan,Italy
+GETLINK SE,https://live.euronext.com/en/product/equities/FR0010533075-XPAR,FR0010533075,Euronext Paris,France
+HEINEKEN,https://live.euronext.com/en/product/equities/NL0000009165-XAMS,NL0000009165,Euronext Amsterdam,Netherlands
+HERMES INTL,https://live.euronext.com/en/product/equities/FR0000052292-XPAR,FR0000052292,Euronext Paris,France
+KBC,https://live.euronext.com/en/product/equities/BE0003565737-XBRU,BE0003565737,Euronext Brussels,Belgium
+KERING,https://live.euronext.com/en/product/equities/FR0000121485-XPAR,FR0000121485,Euronext Paris,France
+KINGSPAN GROUP PLC,https://live.euronext.com/en/product/equities/IE0004927939-XMSM,IE0004927939,Euronext Dublin,Ireland
+PHILIPS KON,https://live.euronext.com/en/product/equities/NL0000009538-XAMS,NL0000009538,Euronext Amsterdam,Netherlands
+L'OREAL,https://live.euronext.com/en/product/equities/FR0000120321-XPAR,FR0000120321,Euronext Paris,France
+LEGRAND,https://live.euronext.com/en/product/equities/FR0010307819-XPAR,FR0010307819,Euronext Paris,France
+LVMH,https://live.euronext.com/en/product/equities/FR0000121014-XPAR,FR0000121014,Euronext Paris,France
+MICHELIN,https://live.euronext.com/en/product/equities/FR001400AJ45-XPAR,FR001400AJ45,Euronext Paris,France
+NEOEN,https://live.euronext.com/en/product/equities/FR0011675362-XPAR,FR0011675362,Euronext Paris,France
+ORANGE,https://live.euronext.com/en/product/equities/FR0000133308-XPAR,FR0000133308,Euronext Paris,France
+PUBLICIS GROUPE SA,https://live.euronext.com/en/product/equities/FR0000130577-XPAR,FR0000130577,Euronext Paris,France
+SANOFI,https://live.euronext.com/en/product/equities/FR0000120578-XPAR,FR0000120578,Euronext Paris,France
+SCATEC,https://live.euronext.com/en/product/equities/NO0010715139-XOSL,NO0010715139,Oslo Børs,Norway
+SCHNEIDER ELECTRIC,https://live.euronext.com/en/product/equities/FR0000121972-XPAR,FR0000121972,Euronext Paris,France
+SIGNIFY NV,https://live.euronext.com/en/product/equities/NL0011821392-XAMS,NL0011821392,Euronext Amsterdam,Netherlands
+SOCIETE GENERALE,https://live.euronext.com/en/product/equities/FR0000130809-XPAR,FR0000130809,Euronext Paris,France
+TERNA,https://live.euronext.com/en/product/equities/IT0003242622-MTAA,IT0003242622,Euronext Milan,Italy
+UCB,https://live.euronext.com/en/product/equities/BE0003739530-XBRU,BE0003739530,Euronext Brussels,Belgium
+UMICORE,https://live.euronext.com/en/product/equities/BE0974320526-XBRU,BE0974320526,Euronext Brussels,Belgium
+UNIBAIL-RODAMCO-WE,https://live.euronext.com/en/product/equities/FR0013326246-XPAR,FR0013326246,Euronext Paris,France
+UNILEVER,https://live.euronext.com/en/product/equities/GB00B10RZP78-XAMS,GB00B10RZP78,Euronext Amsterdam,United Kingdom
+ANTOFAGASTA PLC,,GB0000456144,London Stock Exchange,United Kingdom
+ASSA ABLOY AB-B,,SE0007100581,Stockholm Stock Exchange,Sweden
+ASTRAZENECA,,GB0009895292,London Stock Exchange,United Kingdom
+BANCO SANTANDER CENT,,ES0113900J37,Bolsa de Madrid,Spain
+BARCLAYS PLC,,GB0031348658,London Stock Exchange,United Kingdom
+BBVA,,ES0113211835,Bolsa de Madrid,Spain
+BURBERRY GROUP,,GB0031743007,London Stock Exchange,United Kingdom
+CARLSBERG A/S CL. B,,DK0010181759,Copenhaguen Stock Exchange,Denmark
+CHR HANSEN HOLDING,,DK0060227585,Copenhaguen Stock Exchange,Denmark
+CONTINENTAL AG,,DE0005439004,Deutsche Börse Xetra,Germany
+CORP ACC ENERGIAS,,ES0105563003,Bolsa de Madrid,Spain
+CRODA INTERNATIONAL,,GB00BJFFLV09,London Stock Exchange,United Kingdom
+DEUTSCHE BOERSE AG,,DE0005810055,Deutsche Börse Xetra,Germany
+DHL GROUP,,DE0005552004,Deutsche Börse Xetra,Germany
+DIAGEO,,GB0002374006,London Stock Exchange,United Kingdom
+DSV A/S,,DK0060079531,Copenhaguen Stock Exchange,Denmark
+ENCAVIS,,DE0006095003,Deutsche Börse Xetra,Germany
+EPIROC AB,,SE0015658109,Stockholm Stock Exchange,Sweden
+ESSITY CLASS B,,SE0009922164,Stockholm Stock Exchange,Sweden
+FRESENIUS SE & CO,,DE0005785604,Deutsche Börse Xetra,Germany
+GEBERIT AG REG.,,CH0030170408,Swiss Exchange,Switzerland
+GIVAUDAN SA,,CH0010645932,Swiss Exchange,Switzerland
+HALMA PLC,,GB0004052071,London Stock Exchange,United Kingdom
+HSBC HOLDINGS PLC,,GB0005405286,London Stock Exchange,United Kingdom
+INDITEX,,ES0148396007,Bolsa de Madrid,Spain
+INFINEON TECHNOLOGIE,,DE0006231004,Deutsche Börse Xetra,Germany
+INTERCONTINENTAL HTL,,GB00BHJYC057,London Stock Exchange,United Kingdom
+KONE OYJ,,FI0009013403,Helsinki Stock Exchange.,Finland
+LEGAL AND GENERAL,,GB0005603997,London Stock Exchange,United Kingdom
+LOGITECH INTL SA,,CH0025751329,Swiss Exchange,Switzerland
+LONDON STOCK EXCHANG,,GB00B0SWJX34,London Stock Exchange,United Kingdom
+MONDI PLC,,GB00B1CRLC47,London Stock Exchange,United Kingdom
+NOKIA,,FI0009000681,Helsinki Stock Exchange.,Finland
+NORDEX SE,,DE000A0D6554,Deutsche Börse Xetra,Germany
+NOVARTIS,,CH0012005267,Swiss Exchange,Switzerland
+NOVOZYMES,,DK0060336014,Copenhaguen Stock Exchange,Denmark
+PRUDENTIAL PLC,,GB0007099541,London Stock Exchange,United Kingdom
+PUMA,,DE0006969603,Deutsche Börse Xetra,Germany
+REDEIA CORP,,ES0173093024,Bolsa de Madrid,Spain
+ROCKWOOL B,,DK0010219153,Copenhaguen Stock Exchange,Denmark
+SAP,,DE0007164600,Deutsche Börse Xetra,Germany
+SEVERN TRENT,,GB00B1FH8J72,London Stock Exchange,United Kingdom
+SIEMENS HEALTHINEERS,,DE000SHL1006,Deutsche Börse Xetra,Germany
+SIG GROUP AG,,CH0435377954,Swiss Exchange,Switzerland
+SIKA AG,,CH0418792922,Swiss Exchange,Switzerland
+SOLARIA ENERGIA,,ES0165386014,Bolsa de Madrid,Spain
+SONOVA HOLDING AG,,CH0012549785,Swiss Exchange,Switzerland
+SPIRAX-SARCO ENG PLC,,GB00BWFGQN14,London Stock Exchange,United Kingdom
+STADLER RAIL AG,,CH0002178181,Swiss Exchange,Switzerland
+STORA ENSO OYJ,,FI0009005961,Helsinki Stock Exchange.,Finland
+SVENSKA CELLULOSA B,,SE0000112724,Stockholm Stock Exchange,Sweden
+SVENSKA HANDELSBNKEN,,SE0007100599,Stockholm Stock Exchange,Sweden
+SWISS RE AG,,CH0126881561,Swiss Exchange,Switzerland
+SYMRISE AG,,DE000SYM9999,Deutsche Börse Xetra,Germany
+TELEFONICA,,ES0178430E18,Bolsa de Madrid,Spain
+VESTAS WIND SYSTEMS,,DK0061539921,Copenhaguen Stock Exchange,Denmark
+VODAFONE GROUP,,GB00BH4HKS39,London Stock Exchange,United Kingdom
+VONOVIA SE,,DE000A1ML7J1,Deutsche Börse Xetra,Germany
+WHITBREAD,,GB00B1KJJ408,London Stock Exchange,United Kingdom
+WPP,,JE00B8KF9B49,London Stock Exchange,United Kingdom
+ZALANDO SE,,DE000ZAL1111,Deutsche Börse Xetra,Germany
+ZURICH INSURANCE AG,,CH0011075394,Swiss Exchange,Switzerland

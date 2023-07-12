@@ -1,0 +1,1 @@
+ls .\py\*.py | %{ python $_.Fullname}
