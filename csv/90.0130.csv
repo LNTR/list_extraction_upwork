@@ -17,7 +17,7 @@ CARREFOUR,https://live.euronext.com/en/product/equities/FR0000120172-XPAR,FR0000
 CNH INDUSTRIAL,https://live.euronext.com/en/product/equities/NL0010545661-MTAA,NL0010545661,Euronext Milan,Netherlands
 COVIVIO,https://live.euronext.com/en/product/equities/FR0000064578-XPAR,FR0000064578,Euronext Paris,France
 DANONE,https://live.euronext.com/en/product/equities/FR0000120644-XPAR,FR0000120644,Euronext Paris,France
-DNB BANK,https://live.euronext.com/en/product/equities/NO0010161896-XOSL,NO0010161896,Oslo Børs,Norway
+DNB BANK,https://live.euronext.com/en/product/equities/NO0010161896-XOSL,NO0010161896,Oslo Boers,Norway
 DSM FIRMENICH AG,https://live.euronext.com/en/product/equities/CH1216478797-XAMS,CH1216478797,Euronext Amsterdam,Switzerland
 EDENRED,https://live.euronext.com/en/product/equities/FR0010908533-XPAR,FR0010908533,Euronext Paris,France
 EDP,https://live.euronext.com/en/product/equities/PTEDP0AM0009-XLIS,PTEDP0AM0009,Euronext Lisbon,Portugal
@@ -43,7 +43,7 @@ KPN KON,https://live.euronext.com/en/product/equities/NL0000009082-XAMS,NL000000
 L'OREAL,https://live.euronext.com/en/product/equities/FR0000120321-XPAR,FR0000120321,Euronext Paris,France
 LEGRAND,https://live.euronext.com/en/product/equities/FR0010307819-XPAR,FR0010307819,Euronext Paris,France
 LVMH,https://live.euronext.com/en/product/equities/FR0000121014-XPAR,FR0000121014,Euronext Paris,France
-MOWI,https://live.euronext.com/en/product/equities/NO0003054108-XOSL,NO0003054108,Oslo Børs,Norway
+MOWI,https://live.euronext.com/en/product/equities/NO0003054108-XOSL,NO0003054108,Oslo Boers,Norway
 ORANGE,https://live.euronext.com/en/product/equities/FR0000133308-XPAR,FR0000133308,Euronext Paris,France
 PERNOD RICARD,https://live.euronext.com/en/product/equities/FR0000120693-XPAR,FR0000120693,Euronext Paris,France
 PUBLICIS GROUPE SA,https://live.euronext.com/en/product/equities/FR0000130577-XPAR,FR0000130577,Euronext Paris,France
@@ -59,7 +59,7 @@ SNAM,https://live.euronext.com/en/product/equities/IT0003153415-MTAA,IT000315341
 SOCIETE GENERALE,https://live.euronext.com/en/product/equities/FR0000130809-XPAR,FR0000130809,Euronext Paris,France
 SODEXO,https://live.euronext.com/en/product/equities/FR0000121220-XPAR,FR0000121220,Euronext Paris,France
 SOLVAY,https://live.euronext.com/en/product/equities/BE0003470755-XBRU,BE0003470755,Euronext Brussels,Belgium
-STOREBRAND,https://live.euronext.com/en/product/equities/NO0003053605-XOSL,NO0003053605,Oslo Børs,Norway
+STOREBRAND,https://live.euronext.com/en/product/equities/NO0003053605-XOSL,NO0003053605,Oslo Boers,Norway
 TERNA,https://live.euronext.com/en/product/equities/IT0003242622-MTAA,IT0003242622,Euronext Milan,Italy
 THALES,https://live.euronext.com/en/product/equities/FR0000121329-XPAR,FR0000121329,Euronext Paris,France
 UCB,https://live.euronext.com/en/product/equities/BE0003739530-XBRU,BE0003739530,Euronext Brussels,Belgium
@@ -85,7 +85,7 @@ ASTRAZENECA,,GB0009895292,London Stock Exchange,United Kingdom
 BANCO SANTANDER CENT,,ES0113900J37,Bolsa de Madrid,Spain
 BARCLAYS PLC,,GB0031348658,London Stock Exchange,United Kingdom
 BARRATT DEVELOPMENTS,,GB0000811801,London Stock Exchange,United Kingdom
-BAYER AG,,DE000BAY0017,Deutsche Börse Xetra,Germany
+BAYER AG,,DE000BAY0017,Deutsche Boerse Xetra,Germany
 BBVA,,ES0113211835,Bolsa de Madrid,Spain
 BERKELEY GROUP HLD,,GB00BLJNXL82,London Stock Exchange,United Kingdom
 BT GROUP PLC,,GB0030913577,London Stock Exchange,United Kingdom
@@ -95,9 +95,9 @@ CELLNEX TELECOM,,ES0105066007,Bolsa de Madrid,Spain
 CHR HANSEN HOLDING,,DK0060227585,Copenhaguen Stock Exchange,Denmark
 COCA-COLA HBC AG-CDI,,CH0198251305,London Stock Exchange,United Kingdom
 CRODA INTERNATIONAL,,GB00BJFFLV09,London Stock Exchange,United Kingdom
-DAIMLER TRUCK HLDNG,,DE000DTR0CK8,Deutsche Börse Xetra,Germany
-DEUTSCHE BOERSE AG,,DE0005810055,Deutsche Börse Xetra,Germany
-DHL GROUP,,DE0005552004,Deutsche Börse Xetra,Germany
+DAIMLER TRUCK HLDNG,,DE000DTR0CK8,Deutsche Boerse Xetra,Germany
+DEUTSCHE BOERSE AG,,DE0005810055,Deutsche Boerse Xetra,Germany
+DHL GROUP,,DE0005552004,Deutsche Boerse Xetra,Germany
 DIAGEO,,GB0002374006,London Stock Exchange,United Kingdom
 DS SMITH,,GB0008220112,London Stock Exchange,United Kingdom
 DSV A/S,,DK0060079531,Copenhaguen Stock Exchange,Denmark
@@ -106,20 +106,20 @@ ENTAIN PLC,,IM00B5VQMV65,London Stock Exchange,United Kingdom
 EPIROC AB,,SE0015658109,Stockholm Stock Exchange,Sweden
 ERICSSON B,,SE0000108656,Stockholm Stock Exchange,Sweden
 ESSITY CLASS B,,SE0009922164,Stockholm Stock Exchange,Sweden
-FRESENIUS SE & CO,,DE0005785604,Deutsche Börse Xetra,Germany
-GEA GROUP AG,,DE0006602006,Deutsche Börse Xetra,Germany
+FRESENIUS SE & CO,,DE0005785604,Deutsche Boerse Xetra,Germany
+GEA GROUP AG,,DE0006602006,Deutsche Boerse Xetra,Germany
 GEBERIT AG REG.,,CH0030170408,Swiss Exchange,Switzerland
 GIVAUDAN SA,,CH0010645932,Swiss Exchange,Switzerland
 GRIFOLS SA,,ES0171996087,Bolsa de Madrid,Spain
 HALMA PLC,,GB0004052071,London Stock Exchange,United Kingdom
-HANNOVER RUECK SE,,DE0008402215,Deutsche Börse Xetra,Germany
+HANNOVER RUECK SE,,DE0008402215,Deutsche Boerse Xetra,Germany
 HELVETIA HOLDING,,CH0466642201,Swiss Exchange,Switzerland
 HENNES & MAURITZ AB,,SE0000106270,Stockholm Stock Exchange,Sweden
 HEXAGON AB-B,,SE0015961909,Stockholm Stock Exchange,Sweden
 HOLCIM LTD,,CH0012214059,Swiss Exchange,Switzerland
 HSBC HOLDINGS PLC,,GB0005405286,London Stock Exchange,United Kingdom
 INDITEX,,ES0148396007,Bolsa de Madrid,Spain
-INFINEON TECHNOLOGIE,,DE0006231004,Deutsche Börse Xetra,Germany
+INFINEON TECHNOLOGIE,,DE0006231004,Deutsche Boerse Xetra,Germany
 INTERCONTINENTAL HTL,,GB00BHJYC057,London Stock Exchange,United Kingdom
 INTERMEDIATE CAPITAL,,GB00BYT1DJ19,London Stock Exchange,United Kingdom
 INTERTEK GROUP,,GB0031638363,London Stock Exchange,United Kingdom
@@ -132,11 +132,11 @@ JOHNSON MATTHEY PLC,,GB00BZ4BQC70,London Stock Exchange,United Kingdom
 JULIUS BAER GRUPPE,,CH0102484968,Swiss Exchange,Switzerland
 KINGFISHER,,GB0033195214,London Stock Exchange,United Kingdom
 KINNEVIK AB CLASS B,,SE0015810247,Stockholm Stock Exchange,Sweden
-KNORR-BREMSE AG,,DE000KBX1006,Deutsche Börse Xetra,Germany
+KNORR-BREMSE AG,,DE000KBX1006,Deutsche Boerse Xetra,Germany
 KONE OYJ,,FI0009013403,Helsinki Stock Exchange.,Finland
 LAND SECURITIES,,GB00BYW0PQ60,London Stock Exchange,United Kingdom
-LANXESS AG,,DE0005470405,Deutsche Börse Xetra,Germany
-LEG IMMOBILIEN SE,,DE000LEG1110,Deutsche Börse Xetra,Germany
+LANXESS AG,,DE0005470405,Deutsche Boerse Xetra,Germany
+LEG IMMOBILIEN SE,,DE000LEG1110,Deutsche Boerse Xetra,Germany
 LEGAL AND GENERAL,,GB0005603997,London Stock Exchange,United Kingdom
 LLOYDS BANKING GROUP,,GB0008706128,London Stock Exchange,United Kingdom
 LOGITECH INTL SA,,CH0025751329,Swiss Exchange,Switzerland
@@ -155,19 +155,19 @@ ORSTED,,DK0060094928,Copenhaguen Stock Exchange,Denmark
 PARTNERS GROUP HLDG,,CH0024608827,Swiss Exchange,Switzerland
 PERSIMMON,,GB0006825383,London Stock Exchange,United Kingdom
 PHOENIX GROUP,,GB00BGXQNP29,London Stock Exchange,United Kingdom
-PORSCHE AG,,DE000PAG9113,Deutsche Börse Xetra,Germany
+PORSCHE AG,,DE000PAG9113,Deutsche Boerse Xetra,Germany
 PRUDENTIAL PLC,,GB0007099541,London Stock Exchange,United Kingdom
-PUMA,,DE0006969603,Deutsche Börse Xetra,Germany
+PUMA,,DE0006969603,Deutsche Boerse Xetra,Germany
 REDEIA CORP,,ES0173093024,Bolsa de Madrid,Spain
-SAP,,DE0007164600,Deutsche Börse Xetra,Germany
+SAP,,DE0007164600,Deutsche Boerse Xetra,Germany
 SCHINDLER HLDG AG,,CH0024638196,Swiss Exchange,Switzerland
 SEGRO,,GB00B5ZN1N88,London Stock Exchange,United Kingdom
 SEVERN TRENT,,GB00B1FH8J72,London Stock Exchange,United Kingdom
 SFS GROUP AG,,CH0239229302,Swiss Exchange,Switzerland
 SGS,,CH1256740924,Swiss Exchange,Switzerland
-SIEMENS AG,,DE0007236101,Deutsche Börse Xetra,Germany
-SIEMENS ENERGY AG,,DE000ENER6Y0,Deutsche Börse Xetra,Germany
-SIEMENS HEALTHINEERS,,DE000SHL1006,Deutsche Börse Xetra,Germany
+SIEMENS AG,,DE0007236101,Deutsche Boerse Xetra,Germany
+SIEMENS ENERGY AG,,DE000ENER6Y0,Deutsche Boerse Xetra,Germany
+SIEMENS HEALTHINEERS,,DE000SHL1006,Deutsche Boerse Xetra,Germany
 SIG GROUP AG,,CH0435377954,Swiss Exchange,Switzerland
 SIKA AG,,CH0418792922,Swiss Exchange,Switzerland
 SKANSKA AB,,SE0000113250,Stockholm Stock Exchange,Sweden
@@ -180,11 +180,11 @@ SVENSKA CELLULOSA B,,SE0000112724,Stockholm Stock Exchange,Sweden
 SVENSKA HANDELSBNKEN,,SE0007100599,Stockholm Stock Exchange,Sweden
 SWISS LIFE HOLDING,,CH0014852781,Swiss Exchange,Switzerland
 SWISS RE AG,,CH0126881561,Swiss Exchange,Switzerland
-SYMRISE AG,,DE000SYM9999,Deutsche Börse Xetra,Germany
+SYMRISE AG,,DE000SYM9999,Deutsche Boerse Xetra,Germany
 TAYLOR WIMPEY PLC,,GB0008782301,London Stock Exchange,United Kingdom
 TECAN GROUP AG,,CH0012100191,Swiss Exchange,Switzerland
 TELEFONICA,,ES0178430E18,Bolsa de Madrid,Spain
-THYSSENKRUPP AG,,DE0007500001,Deutsche Börse Xetra,Germany
+THYSSENKRUPP AG,,DE0007500001,Deutsche Boerse Xetra,Germany
 TRELLEBORG AB,,SE0000114837,Stockholm Stock Exchange,Sweden
 UBS GROUP,,CH0244767585,Swiss Exchange,Switzerland
 UPM-KYMMENE OYJ,,FI0009005987,Helsinki Stock Exchange.,Finland
@@ -192,10 +192,10 @@ VALMET,,FI4000074984,Helsinki Stock Exchange.,Finland
 VERBUND AG,,AT0000746409,Wiener Boerse,Austria
 VESTAS WIND SYSTEMS,,DK0061539921,Copenhaguen Stock Exchange,Denmark
 VODAFONE GROUP,,GB00BH4HKS39,London Stock Exchange,United Kingdom
-VOLKSWAGEN PREF,,DE0007664039,Deutsche Börse Xetra,Germany
-VONOVIA SE,,DE000A1ML7J1,Deutsche Börse Xetra,Germany
+VOLKSWAGEN PREF,,DE0007664039,Deutsche Boerse Xetra,Germany
+VONOVIA SE,,DE000A1ML7J1,Deutsche Boerse Xetra,Germany
 WARTSILA OYJ ABP,,FI0009003727,Helsinki Stock Exchange.,Finland
 WHITBREAD,,GB00B1KJJ408,London Stock Exchange,United Kingdom
 WPP,,JE00B8KF9B49,London Stock Exchange,United Kingdom
-ZALANDO SE,,DE000ZAL1111,Deutsche Börse Xetra,Germany
+ZALANDO SE,,DE000ZAL1111,Deutsche Boerse Xetra,Germany
 ZURICH INSURANCE AG,,CH0011075394,Swiss Exchange,Switzerland

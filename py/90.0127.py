@@ -51,7 +51,7 @@ def get_row_data_list(tr):
             row_data_list.append(td.text.strip())
             row_data_list.append(BASE_URL+td.a["href"].strip())
         else:
-            row_data_list.append(td.text.strip())
+            row_data_list.append(td.text.strip().replace("ø","oe"))
 
     return row_data_list
 

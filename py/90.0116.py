@@ -6,7 +6,6 @@ import re
 
 FILE_NAME = "90.0116"
 
-# TODO : See the last lines of FILE_NAME.CSV
 
 
 headers  =  {
@@ -16,12 +15,22 @@ columns = ["Name","Cell No","Tel No","Fax","Email","Website","Address"]
 
 df = pd.DataFrame(columns = columns)
 
+international_insurance_entity_type_list=[
+    "Allied Reinsurance Companies",
+    "Captive Insurance Companies",
+    "General & Reinsurance Companies",
+    "General Insurance Companies",
+    "Long Term Insurance Companies",
+    "Reinsurance Companies",
+    "Insurance Brokers"
+]
+
 pattern_list = [
             re.compile(r"Cell:\s?.*\n",re.IGNORECASE),
             re.compile(r"Tel:\s?.*\n",re.IGNORECASE),
             re.compile(r"Fax:\s?.*\n",re.IGNORECASE),
             re.compile(r"E\-?mail:.+\n",re.IGNORECASE),
-            re.compile(r"Website:.+\n",re.IGNORECASE)
+            re.compile(r"Website:.+\n",re.IGNORECASE),
             ]
 
 
@@ -49,11 +58,27 @@ def add_data_to_df(html):
     for panel_heading in panel_heading_list:
         company_name = panel_heading.h4.text.strip()
         panel_body = panel_heading.next_sibling
-        body_data = get_body_data_list(panel_body)
-        df.loc[len(df)+1] = [company_name]+body_data
-        
 
-        
+        if company_name in international_insurance_entity_type_list:
+            company_name_list=get_internation_entity_names(panel_body)
+            add_company_name_list_to_df(company_name_list)
+            
+        else:
+            body_data = get_body_data_list(panel_body)
+            df.loc[len(df)+1] = [company_name]+body_data
+                
+
+
+def get_internation_entity_names(panel_body):
+    company_name_list=[]
+    for li in panel_body.find("ul").find_all("li"):
+        company_name_list.append(li.text.strip())
+    return company_name_list
+
+def add_company_name_list_to_df(company_name_list):
+    for company_name in company_name_list:
+        df.loc[len(df)+1] = [company_name]+[None]*6
+
 
 def get_body_data_list(soup):
 

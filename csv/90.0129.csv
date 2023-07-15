@@ -3,7 +3,7 @@ AB INBEV,https://live.euronext.com/en/product/equities/BE0974293251-XBRU,BE09742
 ADYEN,https://live.euronext.com/en/product/equities/NL0012969182-XAMS,NL0012969182,Euronext Amsterdam,Netherlands
 AIR LIQUIDE,https://live.euronext.com/en/product/equities/FR0000120073-XPAR,FR0000120073,Euronext Paris,France
 AIRBUS,https://live.euronext.com/en/product/equities/NL0000235190-XPAR,NL0000235190,Euronext Paris,Netherlands
-AKER BP,https://live.euronext.com/en/product/equities/NO0010345853-XOSL,NO0010345853,Oslo Børs,Norway
+AKER BP,https://live.euronext.com/en/product/equities/NO0010345853-XOSL,NO0010345853,Oslo Boers,Norway
 AKZO NOBEL,https://live.euronext.com/en/product/equities/NL0013267909-XAMS,NL0013267909,Euronext Amsterdam,Netherlands
 ALSTOM,https://live.euronext.com/en/product/equities/FR0010220475-XPAR,FR0010220475,Euronext Paris,France
 AMUNDI,https://live.euronext.com/en/product/equities/FR0004125920-XPAR,FR0004125920,Euronext Paris,France
@@ -25,7 +25,7 @@ CRH PLC ord,https://live.euronext.com/en/product/equities/IE0001827041-XMSM,IE00
 D'IETEREN GROUP,https://live.euronext.com/en/product/equities/BE0974259880-XBRU,BE0974259880,Euronext Brussels,Belgium
 DANONE,https://live.euronext.com/en/product/equities/FR0000120644-XPAR,FR0000120644,Euronext Paris,France
 DASSAULT SYSTEMES,https://live.euronext.com/en/product/equities/FR0014003TT8-XPAR,FR0014003TT8,Euronext Paris,France
-DNB BANK,https://live.euronext.com/en/product/equities/NO0010161896-XOSL,NO0010161896,Oslo Børs,Norway
+DNB BANK,https://live.euronext.com/en/product/equities/NO0010161896-XOSL,NO0010161896,Oslo Boers,Norway
 DSM FIRMENICH AG,https://live.euronext.com/en/product/equities/CH1216478797-XAMS,CH1216478797,Euronext Amsterdam,Switzerland
 EDENRED,https://live.euronext.com/en/product/equities/FR0010908533-XPAR,FR0010908533,Euronext Paris,France
 EDP,https://live.euronext.com/en/product/equities/PTEDP0AM0009-XLIS,PTEDP0AM0009,Euronext Lisbon,Portugal
@@ -34,7 +34,7 @@ ELIA GROUP,https://live.euronext.com/en/product/equities/BE0003822393-XBRU,BE000
 ENEL,https://live.euronext.com/en/product/equities/IT0003128367-MTAA,IT0003128367,Euronext Milan,Italy
 ENGIE,https://live.euronext.com/en/product/equities/FR0010208488-XPAR,FR0010208488,Euronext Paris,France
 ENI,https://live.euronext.com/en/product/equities/IT0003132476-MTAA,IT0003132476,Euronext Milan,Italy
-EQUINOR,https://live.euronext.com/en/product/equities/NO0010096985-XOSL,NO0010096985,Oslo Børs,Norway
+EQUINOR,https://live.euronext.com/en/product/equities/NO0010096985-XOSL,NO0010096985,Oslo Boers,Norway
 ESSILORLUXOTTICA,https://live.euronext.com/en/product/equities/FR0000121667-XPAR,FR0000121667,Euronext Paris,France
 EUROFINS SCIENT.,https://live.euronext.com/en/product/equities/FR0014000MR3-XPAR,FR0014000MR3,Euronext Paris,France
 FERRARI,https://live.euronext.com/en/product/equities/NL0011585146-MTAA,NL0011585146,Euronext Milan,Netherlands
@@ -58,9 +58,9 @@ LEGRAND,https://live.euronext.com/en/product/equities/FR0010307819-XPAR,FR001030
 LVMH,https://live.euronext.com/en/product/equities/FR0000121014-XPAR,FR0000121014,Euronext Paris,France
 MICHELIN,https://live.euronext.com/en/product/equities/FR001400AJ45-XPAR,FR001400AJ45,Euronext Paris,France
 MONCLER,https://live.euronext.com/en/product/equities/IT0004965148-MTAA,IT0004965148,Euronext Milan,Italy
-MOWI,https://live.euronext.com/en/product/equities/NO0003054108-XOSL,NO0003054108,Oslo Børs,Norway
+MOWI,https://live.euronext.com/en/product/equities/NO0003054108-XOSL,NO0003054108,Oslo Boers,Norway
 NN GROUP,https://live.euronext.com/en/product/equities/NL0010773842-XAMS,NL0010773842,Euronext Amsterdam,Netherlands
-NORSK HYDRO,https://live.euronext.com/en/product/equities/NO0005052605-XOSL,NO0005052605,Oslo Børs,Norway
+NORSK HYDRO,https://live.euronext.com/en/product/equities/NO0005052605-XOSL,NO0005052605,Oslo Boers,Norway
 ORANGE,https://live.euronext.com/en/product/equities/FR0000133308-XPAR,FR0000133308,Euronext Paris,France
 PERNOD RICARD,https://live.euronext.com/en/product/equities/FR0000120693-XPAR,FR0000120693,Euronext Paris,France
 POSTE ITALIANE,https://live.euronext.com/en/product/equities/IT0003796171-MTAA,IT0003796171,Euronext Milan,Italy
@@ -82,7 +82,7 @@ SODEXO,https://live.euronext.com/en/product/equities/FR0000121220-XPAR,FR0000121
 SOLVAY,https://live.euronext.com/en/product/equities/BE0003470755-XBRU,BE0003470755,Euronext Brussels,Belgium
 STELLANTIS,https://live.euronext.com/en/product/equities/NL00150001Q9-MTAA,NL00150001Q9,Euronext Milan,Netherlands
 STMICROELECTRONICS,https://live.euronext.com/en/product/equities/NL0000226223-XPAR,NL0000226223,Euronext Paris,Netherlands
-TELENOR,https://live.euronext.com/en/product/equities/NO0010063308-XOSL,NO0010063308,Oslo Børs,Norway
+TELENOR,https://live.euronext.com/en/product/equities/NO0010063308-XOSL,NO0010063308,Oslo Boers,Norway
 TELEPERFORMANCE,https://live.euronext.com/en/product/equities/FR0000051807-XPAR,FR0000051807,Euronext Paris,France
 TENARIS,https://live.euronext.com/en/product/equities/LU0156801721-MTAA,LU0156801721,Euronext Milan,Luxembourg
 TERNA,https://live.euronext.com/en/product/equities/IT0003242622-MTAA,IT0003242622,Euronext Milan,Italy
@@ -96,5 +96,5 @@ VINCI,https://live.euronext.com/en/product/equities/FR0000125486-XPAR,FR00001254
 VIVENDI SE,https://live.euronext.com/en/product/equities/FR0000127771-XPAR,FR0000127771,Euronext Paris,France
 WOLTERS KLUWER,https://live.euronext.com/en/product/equities/NL0000395903-XAMS,NL0000395903,Euronext Amsterdam,Netherlands
 WORLDLINE,https://live.euronext.com/en/product/equities/FR0011981968-XPAR,FR0011981968,Euronext Paris,France
-YARA INTERNATIONAL,https://live.euronext.com/en/product/equities/NO0010208051-XOSL,NO0010208051,Oslo Børs,Norway
+YARA INTERNATIONAL,https://live.euronext.com/en/product/equities/NO0010208051-XOSL,NO0010208051,Oslo Boers,Norway
 UNILEVER,,GB00B10RZP78,London Stock Exchange,United Kingdom
