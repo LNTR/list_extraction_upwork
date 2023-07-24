@@ -1,7 +1,5 @@
-set base_folder=Week1
-set script_folder=py
-
 @echo off
+set base_folder=Week2
 
 rem This file is UTF-8 encoded, so we need to update the current code page while executing it
 for /f "tokens=2 delims=:." %%a in ('"%SystemRoot%\System32\chcp.com"') do (
@@ -37,14 +35,12 @@ if defined _OLD_CODEPAGE (
 )
 
 
-
-cd %base_folder%/%script_folder%
-
+cd %base_folder%
 
 
-for %%i in (./*.py) do (
+for %%i in (./py/*.py) do (
 	echo running %%i
-	python %%i
+	python py/%%i
 )
 
 
